@@ -444,7 +444,7 @@ The practical shows how data can be transformed into statistical evidence and ho
 
 # 👨‍💻 Author
 
-## Prince Vaghasiya
+## Indrajeet Maheshwari
 
 **AI & Data Science Student**
 
